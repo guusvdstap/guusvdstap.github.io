@@ -1,2 +1,2 @@
 # CryptoTranscripts
-# guusvdstap.github.io
+# Transcripts of talks from Andreas Antonopoulos on crypto
