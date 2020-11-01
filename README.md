@@ -7,9 +7,9 @@
 # https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
 # ---
 # My additional comments:
-# You can name the repo you like but keep in mind that the name of the GitHub page then will be: https://<username>.github.io/<reponame>
-# Don't follow the steps mentioned on the repo page
-# You can find the url git@github.com: on your new GitHub repo page.
+# You can name the repo whatever you like, but keep in mind that the name of the GitHub page then will be: https://<username>.github.io/<reponame>
+# Don't follow the steps mentioned on GitHub's new repo page
+# You can find the url git@github.com: on GitHub's new repo page.
 # First username is the GitHub username. Second username is the username of the repo.
 # ---
 # When you want to push a new post to GitHub, follow these steps.
