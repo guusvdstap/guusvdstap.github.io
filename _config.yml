@@ -1,24 +1,29 @@
 title: Crypto Talk
 author: Guus van der Stap
 email: guusvdstap@protonmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Transcripts of talks from Andreas Antonopoulos on crypto
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "guusvdstap.github.io"
-# twitter_username: onebinaryK
-github_username: guusvdstap
 timezone: Europe/Amsterdam
 show_excerpts: true
 excerpt_separator: "<!--more-->"
+
+# Social
+github_username: guusvdstap
+
 defaults:
   - scope:
       path: _posts
     values:
       layout: post
+
 # Build settings
 theme: minima
-# plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
